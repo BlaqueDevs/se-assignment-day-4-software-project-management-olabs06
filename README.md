@@ -7,7 +7,7 @@ Timely delivery is crucial in software project management for several reasons:
 - Cost Control: Delayed deliveries can lead to increased costs due to overtime, rework, and potential legal penalties.
 - Risk Mitigation: Timely delivery reduces the risk of project failure, budget overruns, and reputational damage.
 
-# To ensure timely delivery, project managers can implement the following strategies:
+### To ensure timely delivery, project managers can implement the following strategies:
 1. Realistic Planning:
 - Establish clear and achievable deadlines.
 - Break down large tasks into smaller, manageable chunks.
@@ -54,7 +54,7 @@ Effective cost control provides several benefits that contribute to the success 
 - Reduced Risks: Uncontrolled costs can lead to project delays, resource shortages, and quality compromises. Effective cost control mitigates these risks by ensuring financial stability.
 - Increased Stakeholder Confidence: A well-managed budget instills confidence in stakeholders, fostering support and commitment throughout the project lifecycle.
 
-# To prevent budget overruns, organizations can employ the following strategies:
+### To prevent budget overruns, organizations can employ the following strategies:
 - Accurate Cost Estimation: Determine project costs through detailed planning and risk analysis, considering factors such as labor, materials, and contingency funds.
 - Budget Allocation: Establish a baseline budget and allocate funds strategically, ensuring sufficient resources for critical areas while avoiding overspending on non-essential items.
 - Regular Cost Tracking and Reporting: Monitor actual costs against the baseline budget and report variances promptly to identify potential cost overruns early on.
@@ -124,7 +124,7 @@ Examples:
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Ensuring quality assurance (QA) throughout a software project is vital for delivering a reliable, efficient, and user-friendly product. High standards in QA help prevent bugs, security vulnerabilities, and performance issues, ultimately leading to greater customer satisfaction and reduced costs in the long run. Here are some key methods to maintain quality assurance and why it is important:
 
-# Methods for Ensuring Quality Assurance
+### Methods for Ensuring Quality Assurance
 Automated Testing:
 -  Unit Testing: Tests individual components or functions to ensure they work as expected.
 -  Integration Testing: Verifies that different modules or services within the application work together correctly.
@@ -223,7 +223,7 @@ Benefits of a Detailed Project Schedule:
 -  Reduced Stress and Uncertainty: Clear timelines reduce uncertainty and stress for project team members.
 -  Enhanced Customer Satisfaction: On-time delivery and clear communication meet customer expectations and build trust.
 
-How Gantt Charts Assist in Schedule Development:
+### How Gantt Charts Assist in Schedule Development:
 Gantt charts are visual representations of project schedules that use horizontal bars to depict tasks and their duration over time. They offer several advantages in schedule development:
 -  Visualization: Provides a clear and comprehensive visual representation of the project timeline.
 -  Task Dependency: Allows for the graphical representation of task dependencies, ensuring that tasks are executed in the correct order.
@@ -290,7 +290,6 @@ This reduces waste, ensures efficiency, and improves the overall quality of the 
 Doorstep is an all-in-one platform that brings a wide range of essential services right to your door. Whether you need a ride, a meal, a handyman, or even a cleaner, Doorstep makes it easy to access trusted professionals with just a few taps. Designed for convenience and reliability, Doorstep simplifies your daily life by offering a seamless experience, where you can find, book, and pay for multiple services all in one place. With Doorstep, everything you need is just a click away, making your life easier and more manageable.
 ## 11. What are the main features or functionalities that make your software stand out?
 The Doorstep app stands out for several key features and functionalities that enhance convenience, reliability, and user experience:
-
 1. Unified Service Platform
 Feature: Access multiple services such as transportation, food delivery, home maintenance, and cleaning through a single app.
 Benefit: Eliminates the need to juggle multiple apps, offering a more streamlined and efficient experience.
@@ -322,31 +321,31 @@ Benefit: Saves users time and simplifies the management of tasks that require mu
 Feature: Dedicated customer support accessible directly within the app for quick issue resolution.
 Benefit: Ensures users can get help whenever they need it, enhancing overall satisfaction.
 ## 12. What data is available regarding the market size and growth potential for your software?
-# Market Size:
+#### Market Size:
 The Doorstep on-demand service software market in Nigeria is estimated to be around $200 million in 2023.
 The market is expected to grow significantly in the coming years, reaching an estimated $600 million by 2027.
 
-# Market Growth Potential:
+#### Market Growth Potential:
 Rapidly increasing smartphone penetration and internet connectivity.
 Growing demand for convenience and time-saving services.
 Expanding urbanization and increasing disposable income.
 Government initiatives to support the growth of digital services.
 Untapped potential in rural and underserved areas.
 
-# Data Sources:
+#### Data Sources:
 Research and Markets: "Nigeria Doorstep Delivery Software Market, 2023-2027"
 Statista: "Nigeria: Revenue in the Home Services segment 2021-2027"
 TechCabal: "Nigeria's on-demand economy: An overview of current players and opportunities"
 Deloitte: "Nigeria's Digital Transformation Journey"
 National Bureau of Statistics Nigeria: "Household Income and Expenditure Survey"
 
-# Key Market Drivers:
+#### Key Market Drivers:
 Convenience: Doorstep services offer customers the convenience of receiving services at their doorsteps, saving them time and hassle.
 Affordable Pricing: The increasing availability of affordable on-demand service platforms makes them accessible to a wider range of consumers.
 Increased Trust and Reliability: Platforms with robust user feedback systems and service standards enhance trust and reliability in on-demand services.
 Growing Digital Literacy: The rising adoption of smartphones and digital technologies among Nigerians is driving the growth of digital services, including on-demand software.
 
-# Opportunities for Growth:
+#### Opportunities for Growth:
 Expansion into Underserved Areas: Targeting rural and underserved areas with limited access to traditional services.
 Partnership with Local Businesses: Collaborating with local businesses to offer a wider range of services to customers.
 Integration with E-commerce Platforms: Integrating with e-commerce platforms to offer doorstep delivery services for online purchases.
